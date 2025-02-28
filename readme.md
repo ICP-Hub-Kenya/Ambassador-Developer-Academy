@@ -49,4 +49,11 @@ Welcome to the **ICP Ambassador Program**, a structured 4-week training for deve
 - [ICP Developer Docs](https://internetcomputer.org/docs)  
 - [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)  
 - [ICP SDK GitHub](https://github.com/dfinity/sdk)  
+- [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
+- [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
+- [Rust Canister Development Guide](https://internetcomputer.org/docs/current/developer-docs/backend/rust/)
+- [ic-cdk](https://docs.rs/ic-cdk)
+- [ic-cdk-macros](https://docs.rs/ic-cdk-macros)
+- [Candid Introduction](https://internetcomputer.org/docs/current/developer-docs/backend/candid/)
+
 

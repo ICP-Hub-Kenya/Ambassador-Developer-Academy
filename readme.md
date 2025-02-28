@@ -1,6 +1,6 @@
 
 # **ICP Ambassador Program: 4-Week Developer Training**  
-
+![Image](https://github.com/user-attachments/assets/dbccb128-55a5-48d3-8506-54129f9a4b21)
 Welcome to the **ICP Ambassador Program**, a structured 4-week training for developers to learn and teach **Internet Computer (ICP) development** from beginner to pro. This program covers smart contract development, deployment, ICP SDKs, and scaling dApps, culminating in a **smart contract competition** in the final week.  
 
 ## **📅 Program Schedule**  

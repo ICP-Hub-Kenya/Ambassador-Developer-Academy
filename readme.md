@@ -7,21 +7,23 @@ Welcome to the **ICP Ambassador Program**, a structured 4-week training for deve
 
 ### **Week 1: Getting Started with ICP Development**  
 - Introduction to **Internet Computer Protocol (ICP)**  
-* https://www.canva.com/design/DAGClUo49Ww/njVNq02lcKM-v7peWoyzlw/edit?utm_content=DAGClUo49Ww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* [Introduction to Blockchain Slides](https://www.canva.com/design/DAGClUo49Ww/njVNq02lcKM-v7peWoyzlw/edit?utm_content=DAGClUo49Ww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-* https://www.canva.com/design/DAFvN0nFd9A/ER5_E9t6w6133o-5M2WqBg/edit?utm_content=DAFvN0nFd9A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* [Introduction to ICP Slides](https://www.canva.com/design/DAFvN0nFd9A/ER5_E9t6w6133o-5M2WqBg/edit?utm_content=DAFvN0nFd9A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-* https://github.com/Tevin-Isaac/Introduction-to-Azle/blob/master/Tutorial.md
+* [Installation guide for dfx on Windows, Linux and MacOS](https://docs.google.com/document/d/1rkOKOUy28kMJd_rLprN_SgoKS_D0jRAEokE_pSZkoWw/edit?usp=sharing)
+
+* [Azle Starter Kit](https://github.com/Tevin-Isaac/Introduction-to-Azle/blob/master/Tutorial.md)
 
 - Understanding **Canisters (Smart Contracts) on ICP**  
 - **Introduction to Motoko and Rust** for smart contract development  
   - Writing a basic **Motoko** smart contract  
-  - Exploring **Rust for ICP development**  
-  - Setting up the **dfx** environment  
+  - Exploring **Rust for ICP development**
 
 ### **Week 2: Building and Deploying Canisters**  
-- **Step-by-step guide to deploying your first smart contract**  
-  - Setting up **dfx.json** and understanding ICP projects  
+- **Step-by-step guide to deploying your first smart contract**
+  - Using [**ICP Ninja Web IDE**](https://icp.ninja/) to build and instantly deploy canisters 
+  - Understanding [**project structure and files**](https://internetcomputer.org/docs/building-apps/getting-started/app-architecture) (backend, frontend, dfx). 
   - Writing and testing a **basic canister**  
   - Deploying on **local network vs mainnet**  
 
